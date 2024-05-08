@@ -4,7 +4,7 @@
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 - 👋 Hi, I’m Ravisankar Pandian
-- 👀 I’m interested in IBM i, Node.js, React, Python & Linux & Photography
+- 👀 I’m interested in IBM i, Node.js, React, Python & Linux
 - 🌱 I’m currently learning Node.js, React & DevOps
 - 💞️ I’m looking to collaborate on Node.js, Python & IBM i Modernization
 - 💬 Ask me about IBM i & DevOps
